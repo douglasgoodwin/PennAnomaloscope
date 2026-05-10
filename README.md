@@ -24,12 +24,19 @@ Some basic code for controlling the anomaloscope. Includes code contributed by o
 
 ## Electronics
 
-Parts list for the electronics (see 2025 updated version) as well as instructions for assembling the electronics.
+Parts list for the electronics (see 2025 updated and 2026 UK versions) as well as instructions for assembling the electronics.
+
+## xContributed
+
+Contributions that are not software (see Code/xContributed for contributed software).
+
+- 2026-05-10 - PennFilerTesting.pptx from Dana Turner.  This reporst on spectral measurements of various LED/filter combinations with the goal of finding combinations that lead to more balanced R and G values at typical matches, and thus avoiding quantization issues with the original parts.
 
 ## Updates
 
-02-2025 - Uploaded updated parts list provided by Alexander Gokan.
-02-2025 - Assembly instructions expanded and made consistent with how we are now building these.
-08-2025 - Add ICVS2025 materials in their own directory.
-09-2025 - Add link to Ling et al. paper.
-10-2025 - Add python and arduino direct code provided by Alexander Gokan.
+- 02-2025 - Uploaded updated parts list provided by Alexander Gokan.
+- 02-2025 - Assembly instructions expanded and made consistent with how we are now building these.
+- 08-2025 - Add ICVS2025 materials in their own directory.
+- 09-2025 - Add link to Ling et al. paper.
+- 10-2025 - Add python and arduino direct code provided by Alexander Gokan.
+- 05-2026 - Add UK parts list provided by Dana Turner (in Electronics)

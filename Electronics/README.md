@@ -1,2 +1,3 @@
+See the AssemblyInstructions document in this folder for assembly nstructions.
 
-See the AssemblyInstructions document for instructions.
+The PartsListOrig.xlsx spreadsheet is the original parts list with vendors.  Some of these are no longer available. The PartsList-02-08025.xlsx provides parts options that were available in the US in February 2025.  A UK parts list from May 2026 is in PartsList_UKVerison-2026-05-10.xlsx is a version of pats available in the UK in May 2026 (thanks to Dana Turner).
