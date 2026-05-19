@@ -30,7 +30,7 @@ Parts list for the electronics (see 2025 updated and 2026 UK versions) as well a
 
 Contributions that are not software (see Code/xContributed for contributed software).
 
-- 2026-05-10 - PennFilerTesting.pptx from Dana Turner.  This reporst on spectral measurements of various LED/filter combinations with the goal of finding combinations that lead to more balanced R and G values at typical matches, and thus avoiding quantization issues with the original parts.
+- 2026-05-10 - PennFilerTesting.pptx from Dana Turner.  This reports on spectral measurements of various LED/filter combinations with the goal of finding combinations that lead to more balanced R and G values at typical matches, and thus avoiding quantization issues with the original parts.
 
 ## Updates
 
@@ -39,4 +39,4 @@ Contributions that are not software (see Code/xContributed for contributed softw
 - 08-2025 - Add ICVS2025 materials in their own directory.
 - 09-2025 - Add link to Ling et al. paper.
 - 10-2025 - Add python and arduino direct code provided by Alexander Gokan.
-- 05-2026 - Add UK parts list provided by Dana Turner (in Electronics)
+- 05-2026 - Add UK parts list provided by Dana Turner and Lucy Somers (in Electronics)
