@@ -10,6 +10,8 @@
 
 ### Instructions
 
+[See also the AssemblyInstructions document in this directory that says roughly the same as the below and has pictures that illustrate it coming together step by step.]
+
 Using the splicer of your choice, download the STL files and assemble them onto the print bed, selecting your desired print settings. Note that you will need to print:
 - 1 **Base**
 - 1 **MidLayer**

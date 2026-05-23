@@ -16,7 +16,7 @@ Ling, L., E. Bilgiç, M. Mak, H. H. Smith, N. Strukov, J. D. Mollon, Danilova, M
 
 ## CAD
 
-3D printing STL files for the housing.  The README has a link to a movie that shows the electronics being assembled into the 3D printed housing parts.
+3D printing STL files for the housing.  There is a AssemblyInstructions document that shows how to put the whole thing together after you've built the electronics and printed the parts..
 
 ## Code
 
