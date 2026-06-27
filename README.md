@@ -2,6 +2,8 @@
 
 This site provides info on building the Penn Anomaloscope, an Arduino-based LED anomaloscope designed for teaching and (maybe) research.
 
+> **This fork — Douglas Goodwin.** Adds a no-MATLAB control layer in [`Doug/`](Doug/): a dumb-actuator Arduino firmware + a Python harness (`calibrate` / `adjust` / `limits`) with eyeball-and-spectral calibration and color-filter guidance — see [`Doug/README.md`](Doug/README.md). It feeds a citizen-science platform at **anomaloscope.cairn.com**. Upstream (the original, unmodified here) remains [BrainardLab/PennAnomaloscope](https://github.com/BrainardLab/PennAnomaloscope).
+
 The anomaloscope was developed by Leana Keesing and David Brainard, with support from Optica.  This site began as a fork of Leana Keesing's original site, and includes code that was originally provided as part of the Brainard Lab's Teaching Code repository. This is now the respository that (as of 2025) is being developed and maintained.
 
 If you use the Penn Anomaloscope in a publication, please cite as:
